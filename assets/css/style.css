@@ -206,7 +206,7 @@ h6.candidate {
 }
 #hero:before {
   content: "";
-  background: rgba(5, 13, 24, 0.6);
+  background: rgba(5, 13, 24, 0.1);
   position: absolute;
   bottom: 0;
   top: 0;
